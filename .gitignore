@@ -1,0 +1,4 @@
+duplicates/
+dataset/
+dataset/simpsons_train/*
+.DS_Store
